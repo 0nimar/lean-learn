@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+# sqlalchemy==1.4.31
+pymongo[srv]
+python-dotenv
+certifi
+google
+google-generativeai
+langchain-openai
+langsmith
