@@ -6,11 +6,11 @@ lean-learn-backend/venv/
 lean-learn-backend/.idea/
 lean-learn-backend/lean_learn_env
 
-
 #----------------------------
 #----------------------------
 #----------------------------
-
+*/.env.production
+*/.env.development
 ##frontend
 # Logs
 lean-learn-frontend/logs
